@@ -3,7 +3,7 @@
 
 > Не сплю. Не ебусь в глаза. Строю ботов.
 
-🌙 [![Status](https://img.shields.io/badge/Status-Night%20mode-0d1117?style=for-the-badge&labelColor=000)]() 📞 [![Telegram](https://img.shields.io/badge/@ss__g774-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ss_g774) 📜 [![License](https://img.shields.io/badge/License-MIT-ff4444?style=for-the-badge&labelColor=000)]() ⭐ [![Stars](https://img.shields.io/github/stars/HE4TO7/HE4TO7?style=for-the-badge&logo=github&color=gold&labelColor=000)]()
+🌙 [![Status](https://img.shields.io/badge/Status-Night%20mode-0d1117?style=for-the-badge&labelColor=000)]() 📞 [![Telegram](https://img.shields.io/badge/@ss__g774-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ss_g774) 📜 [![License](https://img.shields.io/badge/License-MIT-ff4444?style=for-the-badge&labelColor=000)]() ⭐ [![Stars](https://img.shields.io/github/stars/HE4TO7/HE4TO7?style=for-the-badge&logo=github&color=gold&labelColor=000)]()[![Visits](https://badges.pufler.dev/visits/HE4TO7/HE4TO7?style=for-the-badge&color=blue&labelColor=000)]()
 
 Telegram-инструменты, OSINT, автоматизация — без шума, без огласки, по факту.
 
